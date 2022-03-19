@@ -1,4 +1,6 @@
 
+A full stack web application built using NodeJS, ExpressJS, Passport, Mongoose, HTML5, and CSS. Deployed to Heroku and running on a MongoLab provisioned cluster. Also, uses Cloudinary cloud storage for image upload functionality. 
+
 <h2>YelpCamp URL : https://damp-beach-88706.herokuapp.com/</h2>
 
 <h2>NPM packages used:<h2>
